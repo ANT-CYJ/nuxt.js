@@ -33,7 +33,7 @@
     "test:unit": "jest packages --forceExit"
   },
   "devDependencies": {
-    "@babel/core": "^7.11.0",
+    "@babel/core": "^7.11.1",
     "@babel/preset-env": "^7.11.0",
     "@ls-lint/ls-lint": "^1.9.2",
     "@nuxtjs/eslint-config": "^3.1.0",
@@ -46,7 +46,7 @@
     "@vue/test-utils": "^1.0.3",
     "babel-eslint": "^10.1.0",
     "babel-jest": "^26.2.2",
-    "consola": "^2.14.0",
+    "consola": "^2.15.0",
     "create-require": "^1.0.2",
     "cross-spawn": "^7.0.3",
     "eslint": "^7.6.0",
